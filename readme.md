@@ -1,0 +1,1 @@
+This calculator only consist with 24 lines of code.It's a really simple console calculator
